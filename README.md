@@ -1,2 +1,2 @@
 # PYTHON-internship
-I have learned python through Slash Mark and have developed basic python projects.
+I have learned python through SlashMark and have developed basic python projects.
